@@ -1,0 +1,2 @@
+gcc -I C:\allegro-5.0.10-mingw-4.7.0\include -c knowyourenemy.c
+gcc -o kyn.exe knowyourenemy.o C:\allegro-5.0.10-mingw-4.7.0\lib\liballegro-5.0.10-monolith-mt.a
